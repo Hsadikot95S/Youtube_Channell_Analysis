@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "opportune-balm-340813",
+  "private_key_id": "cf5a94af05bcbe80b35e38d3ddb1ed76a4ef2c09",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEuwIBADANBgkqhkiG9w0BAQEFAASCBKUwggShAgEAAoIBAQC36BdEHYUo2h9A\n9g+KSVSh3U6QU6lgGA7E6F4CN5rZSfvdwjI0mvbgaZOutRTX4/iF3MLibwVOowED\npDc80UXx+eQqBIuvOYKmyQEYATSYPeuwuA62APtgPlpic4+JatSLSiNBhFGioJuH\nhxMIMRyvfSsnQXw0iWFoXvnHhw8wXSMXNcN8UzdrP+6UYAHi7jfIZ8o1JlD1ugoZ\n+n8JUJPhKdnp9tdgetFdDDABx3ngqKml/PDLF6Jq70NOeRUMmEiO5ZRbLWvZqjhG\nguC0ZUDYapcDT9Lkpn1Zx1vdN6KZ51Nctls7EC3fZbKiX/dc4urusDzjfLQYpDcd\nFrSKUFSVAgMBAAECgf8kYWnvtDBsiQLu6SwFQXxqP7jK+OZ2d3B0g4M57Q807O3U\nAvIQLODOOu/p1p9/zKuUGLx0xaY01eWUUtW/H/A2SZRZTdYLCrDgKQfXgPfUSrSw\nwN0DkeUD7i08TKAGM8CO8glQkTfeKud0+lXbyP/2AHF2rf2tQluCpZBWQ7z0U/06\ngMGCBjWRXja2GztPt6BMvbLGpWEChk2i3CaF8ZfN6W+LPtPvBhNz+oavabTirz7S\n6r6WjAN9SS6veC1MiRSp0FlIuzHE26EFjyQS1jn2qEw6kdvj9dB0vDRwPkoKtl20\n/H0lIR5taNxzeXtW2eXKFRO0uZTqs6v3a/WRJuMCgYEA96omcGQUdxKMM0ri0Ilz\nia4e2ozQ8GLgaTPBVBHLToQ8wybYNxDTgWOk11T+QI2vnL7wU9PCsNvZ26+XzAL4\nkPEnE2mrFBXUdtPvqSzg+CYXfdrmZQKIpFAQxQUL/KftRmXnytlng8p0FgQFG6pI\nxUW/EVXEf6Thmyhb/yX214sCgYEAvhib3D9E4AQuhF0smcEA9BB8N8lBdRbEjDpA\nBgGD9h4TO3Q2YgYF3UVQV9jIsA15pwmdDq2k8tHP7s5/DBqajF2lKt/F+M1Rwg5U\nSls3qhy0thPHObqXN1cX/N9K/mkfWHmKDbtUSKqlDOTfWZHd6hhA66F/JUr4UoeT\nAUYuCF8CgYAqw2JnvaAa/0TeBmwrfdBJUZtaOT5Kg4gkIh+bmIb2Q7cKK0biGzGq\nAb6Qv8g29UABXKa6krHnP87aM/ON8mVhAYKxw2kayroo2mdjWrBtqIYd4RIvFsTp\nOjnrCvgK5CQAJ9BiIi/Rfb+VnZQUNs7h4S0gnSKUt6+MzuczoyaACQKBgQCh/sSr\nv3sJUGb3w5Mjf9c5JedFfwt6JanfOjCfLaFwFpcbHmDNzgYnV08tXX9AkGswTr/5\n5z5e8y+4eV7JSM6VeaQsUkAaU5YtwhpQt0VLgWT6mQY5CuqcbWrywrLc9WaR9hkQ\ntKgRuOIoh85SPT0YpgyFAL4iYK4XXpOHDXBjDwKBgHwPjILSQ6eQaMF47QqlLn9X\nu82AVm5XrjDlpmwggmpuYvQxzDm9nCP1B4hmS4Fe3q/E95sVUy4f6GDHff6sEyZa\nWxbVicoGK2S3xzCnODvJ9E9fSR8MXfTtszKt90PueORdhPf1yM7OC1AFQs77NIPz\n2c1cJeKOOTbWlPTgYR1K\n-----END PRIVATE KEY-----\n",
+  "client_email": "huzefa-sadikot@opportune-balm-340813.iam.gserviceaccount.com",
+  "client_id": "117802066234828126383",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/huzefa-sadikot%40opportune-balm-340813.iam.gserviceaccount.com"
+}
